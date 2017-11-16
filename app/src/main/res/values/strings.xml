@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BPL</string>
+    <string name="start_screen_text">Lets Play</string>
+    <string name="setting">Settings</string>
+    <string name="user_id">users</string>
+    <string name="system_1">system_1</string>
+    <string name="system_2">system_1</string>
+    <string name="system_3">system_1</string>
+    <string name="sub_menu_system_1">system_1</string>
+    <string name="sub_menu_system_2">system_1</string>
+    <string name="sub_menu">system_1</string>
+    <item name="setting2" type="id">setting</item>
+    //youtube
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+</resources>

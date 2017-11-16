@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_item_attachment"
+            android:checked="true"
+            android:title="My Account"
+            android:icon="@drawable/ic_account_circle_black_24dp"/>
+        <item
+            android:id="@+id/navigation_item_images"
+            android:title="Notification"
+            android:icon="@drawable/ic_notifications_active_black_24dp"/>
+        <item
+            android:id="@+id/navigation_item_location"
+            android:title="@string/setting"
+            android:icon="@drawable/faq"/>
+    </group>
+
+    <item android:title="Others">
+        <menu>
+            <item
+
+                android:title="ABOUT"
+                android:icon="@drawable/ic_assignment_ind_black_24dp"/>
+            <item
+
+                android:title="FAQ"
+                android:icon="@drawable/ic_help_black_24dp"/>/>
+        </menu>
+    </item>
+
+</menu>
